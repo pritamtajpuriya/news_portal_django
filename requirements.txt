@@ -1,0 +1,9 @@
+Django==3.2.15
+django-dotenv==1.4.2
+django-ckeditor==6.2.0
+djangorestframework==3.13.1
+pyBSDate==0.3.0
+Pillow==9.0.1
+django-jazzmin==2.6.0
+
+
